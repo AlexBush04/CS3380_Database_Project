@@ -75,8 +75,8 @@ moved the controll of the application to the GUI_interface file, so this main fu
 """
 # def main():
 #     # Dictionary of values required to establish a connection to local MySQL server
-#     connection_info = {"user":"root","password":"aEE9-9MZRXsztc7jZX**",
-#                        "host":"localhost","database":"clay_target_data"}
+#     connection_info = {"user":"YOUR USERNAME FOR YOUR SQL INSTANCE","password":"YOUR PASSWORD HERE",
+#                        "host":"THE NAME OF YOUR LOCAL SQL INSTANCE OR YOUR IP-ADDRESS","database":"clay_target_data"}
 
 #     active_cnx = open_connection(connection_info)
 

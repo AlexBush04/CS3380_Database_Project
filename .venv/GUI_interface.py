@@ -16,9 +16,9 @@ class ShotgunDatabaseGUI:
         # 1. Database Connection Setup
         # Using the credentials provided in your Application_functions.py main()
         self.connection_info = {
-            "user": "root",
-            "password": "aEE9-9MZRXsztc7jZX**",
-            "host": "localhost",
+            "user": "YOUR USERNAME FOR YOUR SQL INSTANCE",
+            "password": "YOUR PASSWORD HERE",
+            "host": "THE NAME OF YOUR LOCAL SQL INSTANCE OR YOUR IP-ADDRESS",
             "database": "clay_target_data"
         }
         
